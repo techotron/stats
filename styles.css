@@ -1,0 +1,60 @@
+standardPageHeader1 {
+	font-family: sans-serif;
+	display: block;
+	font-size: 2em;
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
+	margin-left: 0;
+	margin-right: 0;
+	font-weight: bold;
+}
+
+.mainTable {
+	border: 3px solid black;
+	font-family: sans-serif;
+	width: 100%;
+}
+
+.oddTableLine {
+	font-family: sans-serif;
+	font-weight: normal;
+	color: black;
+	border-style: none;
+	background-color: white;
+	vertical-align: center;
+	text-align: center;
+	height: 40px;
+}
+
+.evenTableLine {
+	font-weight: normal;
+	font-family: sans-serif;
+	color: black;
+	border-style: none;
+	background-color: silver;
+	vertical-align: center;
+	text-align: center;
+	height: 40px;
+}
+
+.tableHeader {
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	border-style: none;
+	background-color: teal;
+	vertical-align: center;
+	text-align: center;
+	height: 40px;
+}
+
+.pastDueDate {
+	font-weight: normal;
+	font-family: sans-serif;
+	color: yellow;
+	border-style: none;
+	background-color: red;
+	vertical-align: center;
+	text-align: center;
+	height: 40px;
+}
